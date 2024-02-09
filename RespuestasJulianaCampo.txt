@@ -10,6 +10,7 @@ Preguntas de lectura: Capítulo 1
 •	Interactuar en redes sociales como Facebook, Instagram.
 •	Realizar pagos en línea, gestionar cuentas bancarias.
 •	Ver películas, series, escuchar música, jugar videojuegos entre otros.
+
 2.	Describir los factores que afectan la calidad de las comunicaciones.
 Los factores que afectan la calidad de las comunicaciones pueden ser factores internos y externos:
 Factores externos:
@@ -25,3 +26,35 @@ Factores internos:
 •	Mensajes: información que viaja de un dispositivo a otro.
 •	Medio: Permite transportar los mensajes de un dispositivo a otro.
 •	Dispositivos: Cambian mensajes entre sí, facilitando la comunicación en la red
+
+4.	Responda con sus propias palabras:
+A.	¿Qué son los datos? 
+Los datos son información (textos, números, multimedia) que puede ser procesada y transmitida en un sistema informático.
+B.	¿Qué es una red de datos? 
+Una red de datos es un sistema de interconexión de dispositivos que permite la transferencia de datos entre ellos, facilitando la comunicación.
+C.	¿Qué entiende por arquitectura de red?
+Entiendo por arquitectura de red a las tecnologías, servicios y protocolos que tiene una red.
+D.	¿Qué es una red convergente?
+Una red convergente es una plataforma que integra diferentes tipos de comunicación, como datos, voz y video, en una sola infraestructura de red.
+
+5.	Describir las características de las arquitecturas de red
+A.	Tolerante a fallas:
+Una arquitectura de red tolerante a fallas es capaz de recuperarse rápidamente en caso de falla. Ejemplo: Redes con enlaces redundantes que pueden enrutar el tráfico por rutas alternativas en caso de una falla. 
+B.	Escalabilidad:
+Una red escalable puede expandirse rápidamente para admitir nuevos usuarios y aplicaciones sin afectar el rendimiento del servicio enviado a los usuarios actuales.
+C.	Calidad del servicio:
+La calidad del servicio se refiere a la capacidad de la red para garantizar un rendimiento satisfactorio. Ejemplo: Mayor importancia del tráfico de voz sobre el tráfico de datos para garantizar una comunicación clara en una llamada por teléfono.
+D.	Seguridad:
+Una arquitectura de red segura protege la información y los recursos de la red contra ataques cibernéticos. Ejemplo: Implementación de firewalls para proteger la información.
+
+6.	Investigar qué son las redes orientadas y no orientadas a la conexión.
+•	Redes orientadas a la conexión: Establecen una conexión antes de enviar datos, garantizando la entrega secuencial y fiable de los mismos. Ejemplo: TCP (Protocolo de Control de Transmisión), navegación web, correos electrónicos
+•	Redes no orientadas a la conexión: Envían datos sin establecer una conexión previa, lo que puede resultar en una entrega más rápida pero menos fiable. Ejemplo: UDP (Protocolo de Datagramas de Usuario), videojuegos en línea, transmisiones en vivo. 
+7.	Describa que es la calidad del servicio y que se necesita para mantener una buena calidad de servicio para las aplicaciones que lo requieren.
+Es la capacidad de la red para proporcionar un rendimiento predecible y satisfactorio a diferentes tipos de tráfico. Para mantener una buena calidad de servicio, debemos priorizar ciertos datos, administrar el flujo de información, reducir la demora y asegurar que los datos se envíen correctamente
+
+8.	¿Por qué importa la calidad del servicio en una red de datos? 
+La calidad del servicio es importante en una red de datos porque garantiza una experiencia de usuario satisfactoria al priorizar y gestionar eficientemente el tráfico de datos, voz y video.
+9.	Investiga sobre qué son los proveedores de Internet de Nivel-1 (Tier-1) y Nivel-2 (Tier-2), y cómo se diferencian en términos de infraestructura, alcance y relaciones comerciales.
+Proveedor de Internet de Nivel-1 (Tier-1): Un proveedor de Internet de Nivel-1 es aquel que tiene una red global que se extiende a través de múltiples regiones y continentes. Este tipo de proveedor de Internet no necesita pagar a otros proveedores por el tráfico que envían a través de sus redes, ya que tienen acuerdos de interconexión directa con otros proveedores de Nivel-1. Operan una parte significativa de la infraestructura principal de Internet y tienen un alcance global. 
+Proveedor de Internet de Nivel-2 (Tier-2): Los proveedores de Internet de Nivel-2 son aquellos que no tienen una red global propia, pero compran ancho de banda a los proveedores de Nivel-1 y luego venden ese ancho de banda a proveedores de nivel inferior, empresas y usuarios finales. Estos proveedores tienen un alcance regional o nacional y dependen de los proveedores de Nivel-1 para acceder a Internet global. 
