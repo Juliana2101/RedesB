@@ -35,3 +35,16 @@ El diseño o estructura que define la disposición de los dispositivos de una re
 D.	¿Qué es una red convergente?
 Es cuando diversas tecnologías de comunicación convergen en una misma red.
 
+
+5.	Describir las características de las arquitecturas de red
+Tolerancia a fallas: Capacidad de recuperación ante fallos, como enlaces redundantes para mantener la conectividad.
+Escalabilidad: Capacidad para expandirse rápidamente sin afectar el rendimiento.
+Calidad del servicio: Garantía de rendimiento satisfactorio, priorizando ciertos tipos de tráfico.
+Seguridad: Protección de la red y los recursos contra ataques cibernéticos mediante firewalls.
+
+
+6.	Investigar qué son las redes orientadas y no orientadas a la conexión.
+•	Orientadas a la conexión: Establecen una conexión antes de enviar datos, garantizando la entrega secuencial y fiable.
+•	No orientadas a la conexión: Envían datos sin conexión previa, ofreciendo entrega más rápida pero menos fiable.
+
+
