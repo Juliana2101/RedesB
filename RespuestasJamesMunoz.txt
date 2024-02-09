@@ -84,3 +84,11 @@ La disposición de dispositivos como routers y servidores, así como los medios 
 •	INTERNETWORK: es la interconexión de varias redes
 •	INTERNET: es una red global basada en TCP/IP.
 
+3.	¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
+INTERNETWORK es la conexión de múltiples redes, mientras que INTERNET se refiere específicamente a la red global basada en TCP/IP.
+
+4.	Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e interfaz de red.
+La NIC es un dispositivo que conecta una computadora a una red, el puerto físico es donde se conecta el medio de comunicación, y la interfaz de red son los puertos especializados en un dispositivo de red para conectar con redes individuales.
+
+5.	¿Por qué se dice que un protocolo es independiente de la tecnología? 
+Un protocolo es independiente de la tecnología porque describe las funciones de comunicación sin especificar cómo se implementan, lo que permite su uso en diferentes sistemas y tecnologías.
