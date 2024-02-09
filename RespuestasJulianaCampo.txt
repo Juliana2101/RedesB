@@ -91,4 +91,32 @@ INTERNETWORK se refiere a la interconexión de múltiples redes, mientras que IN
 •	Puerto físico: Es el conector en un dispositivo de red donde se conecta el medio de comunicación.
 •	Interfaz de red: Son los puertos especializados en un dispositivo de red que se conectan con redes individuales, como los puertos de un router
 
+5.	¿Por qué se dice que un protocolo es independiente de la tecnología? 
+Un protocolo se considera independiente de la tecnología porque describe las funciones necesarias para la comunicación sin especificar cómo se deben implementar esas funciones, lo que permite su utilización en diferentes tecnologías y sistemas
+
+6.	Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo (PDU).
+Una Unidad de Datos del Protocolo (PDU) es una unidad de información en un nivel específico de un protocolo de red. Por ejemplo, en el modelo TCP/IP, las PDUs incluyen segmentos, paquetes y tramas en diferentes capas del modelo
+
+7.	Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
+Los protocolos en las comunicaciones de redes son reglas y procedimientos que permiten la transferencia de datos entre dispositivos. El proceso de encapsulamiento de datos implica agregar información de control en cada capa del modelo TCP/IP, donde cada PDU adopta un nombre específico: segmento, paquete y trama
+
+ 
+8.	Describir la diferencia entre los modelos de protocolo y modelos de referencia.
+Los modelos de protocolo describen las funciones que se producen durante las comunicaciones de red, mientras que los modelos de referencia proporcionan un marco para entender las redes y facilitar el desarrollo de nuevas tecnologías
+
+9.	Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
+En el modelo TCP/IP, cada capa tiene funciones específicas: 
+•	Aplicación: Genera datos para la comunicación
+•	Transporte: Encarga de transportar los datos entre sistemas.
+•	Internet: Se encarga del enrutamiento de datos entre redes.
+•	Acceso a la red: Responsable de la transmisión física de datos.
+
+En el modelo OSI, las capas se dividen en siete: 
+•	Aplicación: Interfaz entre el usuario y la red para servicios como correo electrónico y navegadores web.
+•	Presentación: Se encarga del formato de datos para su correcta interpretación.
+•	Sesión: Gestiona las conexiones y sesiones entre sistemas.
+•	Transporte: Responsable de la transferencia fiable de datos entre puntos finales.
+•	Red: Encargada del enrutamiento de paquetes de datos a través de la red.
+•	Enlace de datos: Coordina la comunicación entre dispositivos adyacentes en la red.
+•	Física: Trata con los medios físicos de transmisión de datos, como cables y señales eléctricas.
 
