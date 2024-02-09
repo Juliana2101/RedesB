@@ -65,3 +65,9 @@ Garantiza una experiencia de usuario satisfactoria al priorizar y gestionar efic
 •	Tier-1 mundial: Arelion(anteriormente Telia Carrier), GTT Communications, Liberty Global.
 •	En Colombia: Movistar,Claro,Tigo UNE.
 
+
+11.	Investiga sobre la importancia de los proveedores de Internet de Nivel-1 y Nivel-2 en la conectividad global, incluyendo su papel en la transmisión de datos a través de Internet. 
+Facilitan la transmisión de datos a través de Internet, con Tier-1 operando infraestructura principal y Tier-2 extendiendo conectividad regional o nacional.
+
+12.	Reflexiona sobre el papel crucial de los proveedores de Internet en la infraestructura digital global y cómo su gestión y regulación pueden impactar en la equidad y la eficiencia del acceso a Internet.
+Una regulación equilibrada puede garantizar un acceso justo y proteger los derechos de los usuarios, mientras se mantiene la neutralidad de la red para evitar discriminaciones en el tráfico en línea, encontrar un equilibrio adecuado es crucial para promover una conectividad equitativa y eficiente en el mundo digital.
