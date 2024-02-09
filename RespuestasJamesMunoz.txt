@@ -71,3 +71,16 @@ Facilitan la transmisión de datos a través de Internet, con Tier-1 operando in
 
 12.	Reflexiona sobre el papel crucial de los proveedores de Internet en la infraestructura digital global y cómo su gestión y regulación pueden impactar en la equidad y la eficiencia del acceso a Internet.
 Una regulación equilibrada puede garantizar un acceso justo y proteger los derechos de los usuarios, mientras se mantiene la neutralidad de la red para evitar discriminaciones en el tráfico en línea, encontrar un equilibrio adecuado es crucial para promover una conectividad equitativa y eficiente en el mundo digital.
+
+Preguntas de lectura: Capítulo 2
+
+1.	Describir la estructura de una red, incluidos los dispositivos, medios y servicios necesarios para lograr comunicaciones exitosas. 
+La disposición de dispositivos como routers y servidores, así como los medios de conexión como cables y conexiones inalámbricas, junto con servicios como DHCP y DNS, que son necesarios para lograr comunicaciones exitosas.
+
+2.	Comparar y contrastar los siguientes términos: RED, LAN, WAN, INTERNETWORK E INTERNET.
+•	RED: conjunto de dispositivos interconectados
+•	LAN: es una red local limitada a un área geográfica específica
+•	WAN: cubre un área más amplia
+•	INTERNETWORK: es la interconexión de varias redes
+•	INTERNET: es una red global basada en TCP/IP.
+
