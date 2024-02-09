@@ -48,3 +48,10 @@ Seguridad: Protección de la red y los recursos contra ataques cibernéticos med
 •	No orientadas a la conexión: Envían datos sin conexión previa, ofreciendo entrega más rápida pero menos fiable.
 
 
+
+7.	Describa que es la calidad del servicio y que se necesita para mantener una buena calidad de servicio para las aplicaciones que lo requieren.
+•	La capacidad de la red para proporcionar rendimiento predecible y satisfactorio a diferentes tipos de tráfico.
+•	Priorización de datos, gestión del flujo de información y reducción de la demora.
+
+8.	¿Por qué importa la calidad del servicio en una red de datos? 
+Garantiza una experiencia de usuario satisfactoria al priorizar y gestionar eficientemente el tráfico de datos, voz y video.
