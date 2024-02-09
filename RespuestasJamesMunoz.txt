@@ -16,3 +16,22 @@ Preguntas de lectura: Capítulo 1
 2.	Describir los factores que afectan la calidad de las comunicaciones.
 •	Muchos dispositivos conectados a la red
 •	Tamaño de los archivos
+
+
+3.	Identificar los componentes clave de cualquier red de datos y describir su funcionamiento.
+•	Reglas: Son los protocolos o instrucciones que se deben seguir para una comunicación eficaz
+•	Dispositivos: Encargados de transminir,recibir mensajes a través de un medio
+•	Medio: Canal de comunicación de la red
+•	Mensajes: paquete o información a transmitir
+
+
+4.	Responda con sus propias palabras:
+A.	¿Qué son los datos? 
+Conjunto de información
+B.	¿Qué es una red de datos? 
+Es una estructura que permite obtener información
+C.	¿Qué entiende por arquitectura de red?
+El diseño o estructura que define la disposición de los dispositivos de una red.
+D.	¿Qué es una red convergente?
+Es cuando diversas tecnologías de comunicación convergen en una misma red.
+
