@@ -92,3 +92,15 @@ La NIC es un dispositivo que conecta una computadora a una red, el puerto físic
 
 5.	¿Por qué se dice que un protocolo es independiente de la tecnología? 
 Un protocolo es independiente de la tecnología porque describe las funciones de comunicación sin especificar cómo se implementan, lo que permite su uso en diferentes sistemas y tecnologías.
+
+
+6.	Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo (PDU).
+Una PDU es una unidad de información en un nivel específico de un protocolo de red, como segmentos, paquetes y tramas en el modelo TCP/IP.
+
+7.	Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
+Los protocolos son reglas para la transferencia de datos, y el encapsulamiento implica agregar información de control en cada capa del modelo TCP/IP, donde cada PDU se nombra como segmento, paquete y trama.
+
+
+8.	Describir la diferencia entre los modelos de protocolo y modelos de referencia.
+Los modelos de protocolo describen funciones de comunicación, mientras que los modelos de referencia proporcionan un marco conceptual para entender las redes y fomentar nuevas tecnologías.
+
