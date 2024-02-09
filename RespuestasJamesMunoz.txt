@@ -12,3 +12,7 @@ Preguntas de lectura: Capítulo 1
 •	Realizar compras
 •	Descargar archivos 
 
+
+2.	Describir los factores que afectan la calidad de las comunicaciones.
+•	Muchos dispositivos conectados a la red
+•	Tamaño de los archivos
