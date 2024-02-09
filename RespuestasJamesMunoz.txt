@@ -104,3 +104,18 @@ Los protocolos son reglas para la transferencia de datos, y el encapsulamiento i
 8.	Describir la diferencia entre los modelos de protocolo y modelos de referencia.
 Los modelos de protocolo describen funciones de comunicación, mientras que los modelos de referencia proporcionan un marco conceptual para entender las redes y fomentar nuevas tecnologías.
 
+
+9.	Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
+TCP/IP:
+•	La capa de Aplicación se encarga de generar los datos para la comunicación.
+•	La capa de Transporte se responsabiliza de trasladar los datos entre sistemas.
+•	La capa de Internet se encarga de dirigir los datos entre redes.
+•	La capa de Acceso a la red gestiona la transmisión física de datos.
+OSI:
+•	La capa de Aplicación sirve como interfaz entre el usuario y la red, facilitando servicios como el correo electrónico y la navegación web.
+•	La capa de Presentación se ocupa del formato de los datos para una interpretación adecuada.
+•	La capa de Sesión gestiona las conexiones y sesiones entre sistemas.
+•	La capa de Transporte asegura una transferencia confiable de datos entre puntos finales.
+•	La capa de Red se encarga de encaminar paquetes de datos a través de la red.
+•	La capa de Enlace de datos coordina la comunicación entre dispositivos cercanos en la red.
+•	La capa Física se ocupa de los medios físicos de transmisión de datos, como cables y señales eléctricas.
