@@ -55,3 +55,13 @@ Seguridad: Protección de la red y los recursos contra ataques cibernéticos med
 
 8.	¿Por qué importa la calidad del servicio en una red de datos? 
 Garantiza una experiencia de usuario satisfactoria al priorizar y gestionar eficientemente el tráfico de datos, voz y video.
+
+
+9.	Investiga sobre qué son los proveedores de Internet de Nivel-1 (Tier-1) y Nivel-2 (Tier-2), y cómo se diferencian en términos de infraestructura, alcance y relaciones comerciales.
+•	Tier-1: Red global propia, no pagan por tráfico, alcance global.
+•	Tier-2: Compran ancho de banda a Tier-1, alcance regional o nacional.
+
+10.	Identifica al menos tres proveedores de Internet de nivel mundial y clasifícalos en Nivel-1 (Tier-1) o Nivel-2 (Tier-2) según su posición en la jerarquía de la red. Identifica al menos 2 proveedores de internet en Colombia.
+•	Tier-1 mundial: Arelion(anteriormente Telia Carrier), GTT Communications, Liberty Global.
+•	En Colombia: Movistar,Claro,Tigo UNE.
+
