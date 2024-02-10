@@ -10,6 +10,7 @@ Preguntas de lectura: Capítulo 1
 •	Interactuar en redes sociales como Facebook, Instagram.
 •	Realizar pagos en línea, gestionar cuentas bancarias.
 •	Ver películas, series, escuchar música, jugar videojuegos entre otros.
+
 2.	Describir los factores que afectan la calidad de las comunicaciones.
 Los factores que afectan la calidad de las comunicaciones pueden ser factores internos y externos:
 Factores externos:
@@ -25,3 +26,23 @@ Factores internos:
 •	Mensajes: información que viaja de un dispositivo a otro.
 •	Medio: Permite transportar los mensajes de un dispositivo a otro.
 •	Dispositivos: Cambian mensajes entre sí, facilitando la comunicación en la red
+
+4.	Responda con sus propias palabras:
+A.	¿Qué son los datos? 
+Los datos son información (textos, números, multimedia) que puede ser procesada y transmitida en un sistema informático.
+B.	¿Qué es una red de datos? 
+Una red de datos es un sistema de interconexión de dispositivos que permite la transferencia de datos entre ellos, facilitando la comunicación.
+C.	¿Qué entiende por arquitectura de red?
+Entiendo por arquitectura de red a las tecnologías, servicios y protocolos que tiene una red.
+D.	¿Qué es una red convergente?
+Una red convergente es una plataforma que integra diferentes tipos de comunicación, como datos, voz y video, en una sola infraestructura de red.
+
+5.	Describir las características de las arquitecturas de red
+A.	Tolerante a fallas:
+Una arquitectura de red tolerante a fallas es capaz de recuperarse rápidamente en caso de falla. Ejemplo: Redes con enlaces redundantes que pueden enrutar el tráfico por rutas alternativas en caso de una falla. 
+B.	Escalabilidad:
+Una red escalable puede expandirse rápidamente para admitir nuevos usuarios y aplicaciones sin afectar el rendimiento del servicio enviado a los usuarios actuales.
+C.	Calidad del servicio:
+La calidad del servicio se refiere a la capacidad de la red para garantizar un rendimiento satisfactorio. Ejemplo: Mayor importancia del tráfico de voz sobre el tráfico de datos para garantizar una comunicación clara en una llamada por teléfono.
+D.	Seguridad:
+Una arquitectura de red segura protege la información y los recursos de la red contra ataques cibernéticos. Ejemplo: Implementación de firewalls para proteger la información.
