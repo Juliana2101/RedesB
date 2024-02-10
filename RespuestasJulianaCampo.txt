@@ -91,4 +91,9 @@ INTERNETWORK se refiere a la interconexión de múltiples redes, mientras que IN
 •	Puerto físico: Es el conector en un dispositivo de red donde se conecta el medio de comunicación.
 •	Interfaz de red: Son los puertos especializados en un dispositivo de red que se conectan con redes individuales, como los puertos de un router
 
+5.	¿Por qué se dice que un protocolo es independiente de la tecnología? 
+Un protocolo se considera independiente de la tecnología porque describe las funciones necesarias para la comunicación sin especificar cómo se deben implementar esas funciones, lo que permite su utilización en diferentes tecnologías y sistemas
+
+6.	Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo (PDU).
+Una Unidad de Datos del Protocolo (PDU) es una unidad de información en un nivel específico de un protocolo de red. Por ejemplo, en el modelo TCP/IP, las PDUs incluyen segmentos, paquetes y tramas en diferentes capas del modelo
 
