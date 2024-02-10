@@ -50,11 +50,24 @@ Una arquitectura de red segura protege la información y los recursos de la red 
 6.	Investigar qué son las redes orientadas y no orientadas a la conexión.
 •	Redes orientadas a la conexión: Establecen una conexión antes de enviar datos, garantizando la entrega secuencial y fiable de los mismos. Ejemplo: TCP (Protocolo de Control de Transmisión), navegación web, correos electrónicos
 •	Redes no orientadas a la conexión: Envían datos sin establecer una conexión previa, lo que puede resultar en una entrega más rápida pero menos fiable. Ejemplo: UDP (Protocolo de Datagramas de Usuario), videojuegos en línea, transmisiones en vivo. 
+
 7.	Describa que es la calidad del servicio y que se necesita para mantener una buena calidad de servicio para las aplicaciones que lo requieren.
 Es la capacidad de la red para proporcionar un rendimiento predecible y satisfactorio a diferentes tipos de tráfico. Para mantener una buena calidad de servicio, debemos priorizar ciertos datos, administrar el flujo de información, reducir la demora y asegurar que los datos se envíen correctamente
 
 8.	¿Por qué importa la calidad del servicio en una red de datos? 
 La calidad del servicio es importante en una red de datos porque garantiza una experiencia de usuario satisfactoria al priorizar y gestionar eficientemente el tráfico de datos, voz y video.
+
 9.	Investiga sobre qué son los proveedores de Internet de Nivel-1 (Tier-1) y Nivel-2 (Tier-2), y cómo se diferencian en términos de infraestructura, alcance y relaciones comerciales.
 Proveedor de Internet de Nivel-1 (Tier-1): Un proveedor de Internet de Nivel-1 es aquel que tiene una red global que se extiende a través de múltiples regiones y continentes. Este tipo de proveedor de Internet no necesita pagar a otros proveedores por el tráfico que envían a través de sus redes, ya que tienen acuerdos de interconexión directa con otros proveedores de Nivel-1. Operan una parte significativa de la infraestructura principal de Internet y tienen un alcance global. 
 Proveedor de Internet de Nivel-2 (Tier-2): Los proveedores de Internet de Nivel-2 son aquellos que no tienen una red global propia, pero compran ancho de banda a los proveedores de Nivel-1 y luego venden ese ancho de banda a proveedores de nivel inferior, empresas y usuarios finales. Estos proveedores tienen un alcance regional o nacional y dependen de los proveedores de Nivel-1 para acceder a Internet global. 
+
+10.	Identifica al menos tres proveedores de Internet de nivel mundial y clasifícalos en Nivel-1 (Tier-1) o Nivel-2 (Tier-2) según su posición en la jerarquía de la red. Identifica al menos 2 proveedores de internet en Colombia.
+Proveedores de Nivel-1 (Tier-1) a nivel mundial Lumen Technologies (anteriormente CenturyLink y Level 3), NTT Communications Corporation , Tata Communications, AT&T7.
+Proveedores de Internet en Colombia: Claro Colombia, Movistar Colombia y UNE EPM Telecomunicaciones.
+
+11.	Investiga sobre la importancia de los proveedores de Internet de Nivel-1 y Nivel-2 en la conectividad global, incluyendo su papel en la transmisión de datos a través de Internet. 
+Los proveedores de Internet de Nivel-1 y Nivel-2 desempeñan un papel fundamental en la conectividad global al facilitar la transmisión de datos a través de Internet. Los proveedores de Nivel-1 operan una infraestructura principal que permite la interconexión de redes en todo el mundo, se compone de cables submarinos, enlaces de fibra óptica de larga distancia y centros de datos distribuidos estratégicamente en diferentes regiones del mundo, mientras que los proveedores de Nivel-2 amplían esta conectividad a nivel regional o nacional.
+
+12.	Reflexiona sobre el papel crucial de los proveedores de Internet en la infraestructura digital global y cómo su gestión y regulación pueden impactar en la equidad y la eficiencia del acceso a Internet.
+Los proveedores de Internet desempeñan un papel fundamental en la infraestructura digital global al proporcionar la conectividad necesaria para acceder a servicios en línea, recursos y contenido en todo el mundo. Sin embargo, la gestión y regulación de estos proveedores pueden tener un impacto significativo en la equidad y la eficiencia del acceso a Internet, por ejemplo si los proveedores no fueran equitativos con este, tienen la capacidad de controlar el flujo de información mediante la implementación de restricciones o censura, lo que podría limitar la libertad de expresión y el acceso a una amplia variedad de perspectivas y opiniones en línea.
+
