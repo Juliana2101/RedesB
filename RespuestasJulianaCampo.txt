@@ -10,3 +10,18 @@ Preguntas de lectura: Capítulo 1
 •	Interactuar en redes sociales como Facebook, Instagram.
 •	Realizar pagos en línea, gestionar cuentas bancarias.
 •	Ver películas, series, escuchar música, jugar videojuegos entre otros.
+2.	Describir los factores que afectan la calidad de las comunicaciones.
+Los factores que afectan la calidad de las comunicaciones pueden ser factores internos y externos:
+Factores externos:
+•	la calidad de la ruta entre el emisor y el receptor
+•	número de dispositivos que debe atravesar un mensaje para llegar al destino final
+Factores internos:
+•	Tamaño del mensaje
+•	Complejidad del mensaje
+•	Importancia del mensaje
+
+3.	Identificar los componentes clave de cualquier red de datos y describir su funcionamiento.
+•	Reglas: Establecen cómo se envían, reciben e interpretan los mensajes en la red.
+•	Mensajes: información que viaja de un dispositivo a otro.
+•	Medio: Permite transportar los mensajes de un dispositivo a otro.
+•	Dispositivos: Cambian mensajes entre sí, facilitando la comunicación en la red
