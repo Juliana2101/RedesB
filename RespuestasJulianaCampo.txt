@@ -83,3 +83,12 @@ La estructura de una red incluye dispositivos como routers, switches, computador
 •	INTERNETWORK: Es la interconexión de múltiples redes individuales(LAN Y WAN)
 •	INTERNET: Es una red global de redes interconectadas que utilizan el protocolo TCP/IP.
 
+3.	¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
+INTERNETWORK se refiere a la interconexión de múltiples redes, mientras que INTERNET se refiere específicamente a la red global de redes interconectadas que utilizan el protocolo TCP/IP
+
+4.	Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e interfaz de red.
+•	Tarjeta de interfaz de red (NIC): Es un dispositivo que proporciona la conexión física entre una computadora y una red.
+•	Puerto físico: Es el conector en un dispositivo de red donde se conecta el medio de comunicación.
+•	Interfaz de red: Son los puertos especializados en un dispositivo de red que se conectan con redes individuales, como los puertos de un router
+
+
