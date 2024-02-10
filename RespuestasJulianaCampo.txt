@@ -46,3 +46,9 @@ C.	Calidad del servicio:
 La calidad del servicio se refiere a la capacidad de la red para garantizar un rendimiento satisfactorio. Ejemplo: Mayor importancia del tráfico de voz sobre el tráfico de datos para garantizar una comunicación clara en una llamada por teléfono.
 D.	Seguridad:
 Una arquitectura de red segura protege la información y los recursos de la red contra ataques cibernéticos. Ejemplo: Implementación de firewalls para proteger la información.
+
+6.	Investigar qué son las redes orientadas y no orientadas a la conexión.
+•	Redes orientadas a la conexión: Establecen una conexión antes de enviar datos, garantizando la entrega secuencial y fiable de los mismos. Ejemplo: TCP (Protocolo de Control de Transmisión), navegación web, correos electrónicos
+•	Redes no orientadas a la conexión: Envían datos sin establecer una conexión previa, lo que puede resultar en una entrega más rápida pero menos fiable. Ejemplo: UDP (Protocolo de Datagramas de Usuario), videojuegos en línea, transmisiones en vivo. 
+7.	Describa que es la calidad del servicio y que se necesita para mantener una buena calidad de servicio para las aplicaciones que lo requieren.
+Es la capacidad de la red para proporcionar un rendimiento predecible y satisfactorio a diferentes tipos de tráfico. Para mantener una buena calidad de servicio, debemos priorizar ciertos datos, administrar el flujo de información, reducir la demora y asegurar que los datos se envíen correctamente
