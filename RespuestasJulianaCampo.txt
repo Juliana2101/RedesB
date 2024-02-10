@@ -81,5 +81,5 @@ La estructura de una red incluye dispositivos como routers, switches, computador
 •	LAN (Red de Área Local): Es una red que se encuentra en un área geográfica limitada, como una oficina o un edificio.
 •	WAN (Red de Área Amplia): Es una red que cubre un área geográfica extensa, como una ciudad o un país.
 •	INTERNETWORK: Es la interconexión de múltiples redes individuales(LAN Y WAN)
-•	INTERNET: Es una red global de redes interconectadas que utilizan el protocolo TCP/IP .
+•	INTERNET: Es una red global de redes interconectadas que utilizan el protocolo TCP/IP.
 
