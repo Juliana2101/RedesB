@@ -71,3 +71,15 @@ Los proveedores de Internet de Nivel-1 y Nivel-2 desempeñan un papel fundamenta
 12.	Reflexiona sobre el papel crucial de los proveedores de Internet en la infraestructura digital global y cómo su gestión y regulación pueden impactar en la equidad y la eficiencia del acceso a Internet.
 Los proveedores de Internet desempeñan un papel fundamental en la infraestructura digital global al proporcionar la conectividad necesaria para acceder a servicios en línea, recursos y contenido en todo el mundo. Sin embargo, la gestión y regulación de estos proveedores pueden tener un impacto significativo en la equidad y la eficiencia del acceso a Internet, por ejemplo si los proveedores no fueran equitativos con este, tienen la capacidad de controlar el flujo de información mediante la implementación de restricciones o censura, lo que podría limitar la libertad de expresión y el acceso a una amplia variedad de perspectivas y opiniones en línea.
 
+Preguntas de lectura: Capítulo 2
+
+1.	Describir la estructura de una red, incluidos los dispositivos, medios y servicios necesarios para lograr comunicaciones exitosas. 
+La estructura de una red incluye dispositivos como routers, switches, computadoras, servidores, entre otros, así como los medios de conexión como cables, hilos metálicos, fibra óptica, transmisión inalámbrica , etc. Además, se requieren servicios como DHCP, DNS, NAT, entre otros, para lograr comunicaciones exitosas
+
+2.	Comparar y contrastar los siguientes términos: RED, LAN, WAN, INTERNETWORK E INTERNET.
+•	RED: Es un conjunto de dispositivos interconectados que pueden comunicarse entre sí.
+•	LAN (Red de Área Local): Es una red que se encuentra en un área geográfica limitada, como una oficina o un edificio.
+•	WAN (Red de Área Amplia): Es una red que cubre un área geográfica extensa, como una ciudad o un país.
+•	INTERNETWORK: Es la interconexión de múltiples redes individuales(LAN Y WAN)
+•	INTERNET: Es una red global de redes interconectadas que utilizan el protocolo TCP/IP .
+
